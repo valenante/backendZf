@@ -1,0 +1,7 @@
+Pedido
+----------------------
+Número de Mesa: 45
+Entrega: Todo junto
+1x Steak Tartar - $16.5
+1x Rebanaita de chichilla de Morcilla Cara (Actualizado) - $9.5
+Total: $26.00

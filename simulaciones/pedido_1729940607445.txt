@@ -1,0 +1,6 @@
+Pedido
+----------------------
+Número de Mesa: 20
+Entrega: como salga
+1x Alcachofas Frescas - $8.3
+Total: $8.30

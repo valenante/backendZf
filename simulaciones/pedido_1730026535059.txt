@@ -1,0 +1,6 @@
+Pedido
+----------------------
+Número de Mesa: 45
+Entrega: Mesa 45 está abierta.
+3x Rebanaita de chichilla de Morcilla Cara (Actualizado) - $4.8
+Total: $4.80

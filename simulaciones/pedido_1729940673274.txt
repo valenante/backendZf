@@ -1,0 +1,6 @@
+Pedido
+----------------------
+Número de Mesa: 20
+Entrega: por separado
+1x Steak Tartar - $16.5
+Total: $16.50

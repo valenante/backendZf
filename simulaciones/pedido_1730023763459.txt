@@ -1,0 +1,6 @@
+Pedido
+----------------------
+Número de Mesa: 45
+Entrega: Mesa 45 está abierta.
+1x Steak Tartar - $16.5
+Total: $16.50

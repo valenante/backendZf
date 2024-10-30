@@ -1,0 +1,6 @@
+Pedido
+----------------------
+Número de Mesa: 45
+Entrega: Todo junto
+2x Torreznos de Soria - $9
+Total: $9.00

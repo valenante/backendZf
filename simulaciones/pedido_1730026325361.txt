@@ -1,0 +1,10 @@
+Pedido
+----------------------
+Número de Mesa: 45
+Entrega: Mesa 45 está abierta.
+1x Rebanaita de chichilla de Morcilla Cara (Actualizado) - $4.8
+1x Torreznos de Soria - $9
+2x Lagrimitas de pollo - $6.6
+1x Croquetas - $7.8
+1x Espárragos a la plancha - $6
+Total: $34.20

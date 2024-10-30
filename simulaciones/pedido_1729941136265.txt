@@ -1,0 +1,7 @@
+Pedido
+----------------------
+Número de Mesa: 29
+Entrega: todo junto
+1x Croquetas Mexicanas - $4.2
+1x Tabla de Quesos - $10
+Total: $14.20

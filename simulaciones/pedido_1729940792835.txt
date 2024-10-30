@@ -1,0 +1,7 @@
+Pedido
+----------------------
+Número de Mesa: 20
+Entrega: Hubo un error al abrir la mesa.
+1x Plato de Jamon y quesos - $25.1
+1x Torreznos de Soria - $9
+Total: $34.10

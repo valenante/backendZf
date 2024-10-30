@@ -1,0 +1,6 @@
+Pedido
+----------------------
+Número de Mesa: 20
+Entrega: Mesa 20 está abierta.
+2x Pan y regañas - $0.95
+Total: $0.95

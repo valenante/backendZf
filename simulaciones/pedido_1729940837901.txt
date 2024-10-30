@@ -1,0 +1,7 @@
+Pedido
+----------------------
+Número de Mesa: 26
+Entrega: como salga
+1x Steak Tartar - $16.5
+1x Tartar de Salchichon de Málaga - $8.9
+Total: $25.40
